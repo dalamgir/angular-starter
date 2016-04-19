@@ -20,7 +20,7 @@ The application is a javascript web application based on the AngularJS framework
 > Clone/Download the repo from git
 
 ```bash
-# clone repo repo
+# clone repo
 $ git clone https://github.com/alamgird/angular-starter.git my-app
 
 # change directory to your app
