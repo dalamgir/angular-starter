@@ -1,0 +1,21 @@
+@import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+@import '../../node_modules/font-awesome/css/font-awesome.min.css';
+
+* {
+  border-radius: 0px !important;
+}
+
+.container-fluid {
+  padding: 0px;
+}
+
+.box {
+  width: 70%;
+  height: 200px;
+  background: #FFF;
+  margin: 40px auto;
+}
+
+.sheet {
+  box-shadow: 0 10px 6px -6px #777;
+}
