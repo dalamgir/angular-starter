@@ -21,10 +21,10 @@ The application is a javascript web application based on the AngularJS framework
 
 ```bash
 # clone repo repo
-$ git clone /path/to/source/synopsis-ui.git synopsis-ui
+$ git clone https://github.com/alamgird/angular-starter.git my-app
 
 # change directory to your app
-$ cd synopsis-ui
+$ cd my-app
 
 # install the dependencies with npm
 $ npm install
