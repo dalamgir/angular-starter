@@ -1,8 +1,4 @@
-# Synopsis
-
-Synopsis is a tool geared towards client reporting. This project is the front-end web application for the Synopsis platform.
-
-The application is a javascript web application based on the AngularJS framework using Webpack and ES6.
+# Introduction
 
 * Heavily commented webpack configuration with reasonable defaults.
 * ES6, and ES7 support with babel.
